@@ -32,8 +32,7 @@ I’m especially interested in:
 
 **Tools & Technologies**
 - Git & GitHub
-- Linux
-- VS Code / IntelliJ
+- VS Code / Visual Studio
 - Basic Web Development
 
 ---
