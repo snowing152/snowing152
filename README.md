@@ -38,15 +38,6 @@ I’m especially interested in:
 
 ---
 
-## 📈 Currently Working On
-
-- Improving core CS fundamentals
-- Building small but complete projects
-- Writing cleaner, more maintainable code
-- Expanding my portfolio repositories
-
----
-
 ## 🎯 Goals
 
 - Contribute to open source
@@ -60,14 +51,6 @@ I’m especially interested in:
 
 - GitHub: https://github.com/snowing152
 - Email: maksim.tyan152@gmail.com
-
----
-
-## ⚡ Fun Facts
-
-- I enjoy sci-fi, Warhammer 40k, and The Witcher
-- I like learning languages (Korean / English / Japanese)
-- Always optimizing my workflow and tools
 
 ---
 
