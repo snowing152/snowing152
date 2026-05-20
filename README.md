@@ -8,16 +8,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/[in/YOUR_LINKEDIN](https://www.linkedin.com/in/maksim-tyan-9a470b317/))
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@bulochkaskefirochkom)
-[![GitHub](https://img.shields.io/badge/GitHub-snowing152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snowing152)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snowing152)
 
 </div>
 
 <br>
 
-```
 Backend & full-stack dev · Systems programming · AI
 Building things, breaking things, fixing things.
-```
 
 <br>
 
