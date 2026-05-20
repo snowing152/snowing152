@@ -2,12 +2,12 @@
 
 <img src="./cat-headphones.gif" width="90" style="border-radius: 50%" />
 
-<h2>hey, I'm Maksim</h2>
+<h2>Hey, I'm Maksim</h2>
 
 <p>Student @ Kwangwoon · AI major · Seoul, KR</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/[in/YOUR_LINKEDIN](https://www.linkedin.com/in/maksim-tyan-9a470b317/))
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@bulochkaskefirochkom)
 [![GitHub](https://img.shields.io/badge/GitHub-snowing152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snowing152)
 
 </div>
@@ -42,8 +42,3 @@ Building things, breaking things, fixing things.
 <br>
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snowing152&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&count_private=true&hide=stars)](https://github.com/snowing152)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowing152&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5)](https://github.com/snowing152)
-
-</div>
