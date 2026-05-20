@@ -1,27 +1,25 @@
 <div align="center">
-  <img src="./cat-headphones.gif" width="80" />
 
-  ## hey, I'm Maksim
+<img src="./cat-headphones.gif" width="90" style="border-radius: 50%" />
 
-  Student @ Kwangwoon · AI major · 21 y.o.
+<h2>hey, I'm Maksim</h2>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/choivadim">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+<p>Student @ Kwangwoon · AI major · Seoul, KR</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-snowing152-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snowing152)
+
 </div>
 
----
+<br>
 
-Backend & full-stack developer exploring systems programming and AI.
+```
+Backend & full-stack dev · Systems programming · AI
 Building things, breaking things, fixing things.
+```
 
----
+<br>
 
 ## Tech Stack
 
@@ -41,10 +39,11 @@ Building things, breaking things, fixing things.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choivadim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" height="120" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choivadim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=5" height="120" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snowing152&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&count_private=true&hide=stars)](https://github.com/snowing152)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowing152&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5)](https://github.com/snowing152)
+
 </div>
