@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/YovRlI1mFJsAAAAC/cat-headphones.gif" width="100" />
 
-  # hey, I'm Vadim
+  # hey, I'm Maksim
 
   Student @ Kwangwoon · AI major
 </div>
