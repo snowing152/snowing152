@@ -1,16 +1,24 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/YovRlI1mFJsAAAAC/cat-headphones.gif" width="100" />
+  <img src="./cat-headphones.gif" width="80" />
 
-  # hey, I'm Maksim
+  ## hey, I'm Maksim
 
-  Student @ Kwangwoon · AI major
+  Student @ Kwangwoon · AI major · 21 y.o.
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/choivadim">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## About
-
-Backend & full-stack developer exploring systems programming and AI.  
+Backend & full-stack developer exploring systems programming and AI.
 Building things, breaking things, fixing things.
 
 ---
@@ -36,6 +44,7 @@ Building things, breaking things, fixing things.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choivadim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowing152&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=choivadim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" height="120" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choivadim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=5" height="120" />
 </div>
